@@ -20,3 +20,9 @@ The project is divided into two main parts:
 - Explored docking procedures, analyzed results, and visualized interactions.  
 - Performed a **comparative study between DiffDock and GNINA**, focusing on **RMSD (Root Mean Square Deviation)** metrics to evaluate prediction accuracy.  
 - Code and experiments are available in the [`diff_dock`](./diff_dock) folder.
+
+
+## References
+
+- Ho, J., Jain, A., & Abbeel, P. (2020). *Denoising Diffusion Probabilistic Models.* NeurIPS.  
+- Corso, G., Stärk, H., Jing, B., Barzilay, R., & Jaakkola, T. (2023). *DiffDock: Diffusion Steps, Twists, and Turns for Molecular Docking.* CSAIL, MIT.
